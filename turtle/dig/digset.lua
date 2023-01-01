@@ -1,0 +1,2 @@
+---@class TurtleDigset
+---@field dig
